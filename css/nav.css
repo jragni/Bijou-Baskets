@@ -1,0 +1,13 @@
+/* Nav CSS */
+.nav {
+	background-color: white;
+	color: #545454;
+}
+
+.nav-item{
+	color: inherit;
+}
+
+.nav-item:hover{
+	color:#FFEAA9;
+}

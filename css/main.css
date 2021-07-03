@@ -1,0 +1,29 @@
+/* Main Colors */
+/* 
+	yellow: #FFEAA9 -- secondary
+	mauve: #EBC6BA
+	lightpink: #FAC9AF -- primary
+	darkerPink: #DA947D
+	brown-black:: #545454
+ */
+
+.primary-color {
+	background-color: #FAC9AF;
+}
+.secondary-color {
+	background-color: #FFEAA9;
+} 
+
+body {
+	background-color: #FAC9AF;
+	color: #545454;
+}
+a {
+	text-decoration: none;
+}
+
+/* Main content */
+
+.body-wrapper {
+	background-color: white;
+}
