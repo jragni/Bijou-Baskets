@@ -1,13 +1,17 @@
 /* Nav CSS */
-.nav {
+.navbar {
 	background-color: white;
-	color: #545454;
 }
 
-.nav-item{
+.nav-item
+{
 	color: inherit;
 }
 
 .nav-item:hover{
 	color:#FFEAA9;
+}
+
+#navbar-head{
+	margin-top: 10px;
 }
